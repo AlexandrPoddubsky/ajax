@@ -1,6 +1,6 @@
 # Using AJAX in Drupal
 
-##### Epicodus Drupal Code Review 3
+##### Epicodus Advanced Drupal Week
 
 #### By Logan Wu (11/04/2015)
 
